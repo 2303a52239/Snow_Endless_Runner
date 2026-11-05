@@ -9,3 +9,5 @@
 .idea/
 *.csproj
 *.sln
+!docs/Build/
+!docs/Build/**
